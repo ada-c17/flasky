@@ -4,6 +4,7 @@ from flask_migrate import Migrate
 from dotenv import load_dotenv
 from flask_cors import CORS
 import os
+from flask_cors import CORS
 
 db = SQLAlchemy()
 migrate = Migrate()

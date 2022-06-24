@@ -1,7 +1,6 @@
 alembic==1.5.4
 attrs==20.3.0
 autopep8==1.5.5
-blinker==1.4
 certifi==2020.12.5
 chardet==4.0.0
 click==7.1.2
@@ -18,7 +17,7 @@ Mako==1.1.4
 MarkupSafe==1.1.1
 packaging==20.9
 pluggy==0.13.1
-psycopg2==2.9.3
+psycopg2-binary==2.8.6
 py==1.10.0
 pycodestyle==2.6.0
 pyparsing==2.4.7
